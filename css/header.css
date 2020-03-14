@@ -1,0 +1,13 @@
+#link_exit {
+    text-decoration: none;
+    color:red;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 90%;
+}
+
+.head_name {
+    margin-left: 40%;
+    font-size: 30px;
+}
+

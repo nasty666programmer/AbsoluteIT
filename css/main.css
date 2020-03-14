@@ -1,0 +1,13 @@
+.users_info_container {
+    background-color:gray;
+    width:200px;
+    height:150px;
+    border-radius: 3%;
+}
+
+.name_users {
+    color:#FFE460;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
